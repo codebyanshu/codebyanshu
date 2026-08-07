@@ -46,8 +46,6 @@ Hi, I’m Anshu kumar!<br><br>I’m passionate about coding and technology. On m
 <img src="https://streak-stats.demolab.com?user=kimigakawaii-dev&theme=tokyonight&hide_border=true"/>
 
 </td>
----
-[![](https://visitcount.itsvg.in/api?id=codebyanshu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
